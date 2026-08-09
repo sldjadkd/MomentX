@@ -15,9 +15,9 @@ package com.sb114514.moment.dex;
 import android.content.Context;
 import androidx.annotation.NonNull;
 
-public static class EntryClass {
+public class EntryClass {
     /**
-     * @param context 源自[android.app.Application.attachBaseContext]
+     * @param context 源自android.app.Application.attachBaseContext
      * */
     public static void entryMethod(@NonNull Context context) {
         // 你的代码...
