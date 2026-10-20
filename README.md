@@ -2,6 +2,7 @@
   <p align="center"><b>Bring more possibilities to Moment</b></p>
   <p align="center">
     <img src="https://img.shields.io/badge/Android-7.1%2B-green?logo=android" alt="Android 7.1+">
+    <img src="https://img.shields.io/badge/Kotlin-2.4.20-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin 2.4.20">
     <a href="https://qm.qq.com/q/XuDgCmw2oc">
       <img src="https://img.shields.io/badge/QQ-1091641063-blue?logo=qq" alt="QQ Group">
     </a>
