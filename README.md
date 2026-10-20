@@ -30,6 +30,7 @@
 - Xposed API 82及以上
 > [!IMPORTANT]
 > 不支持[LSPatch](https://github.com/LSPosed/LSPatch)和虚拟Xposed环境，能用也会有功能缺失
+> 
 > 目前仅在[EdXposed](https://github.com/ElderDrivers/EdXposed)环境下测试过，[Xposed](https://github.com/rovo89/XposedBridge)和[LSPosed](https://github.com/LSPosed/LSPosed)未进行测试，**理论适配**
 
 > [!CAUTION]
