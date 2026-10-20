@@ -6,9 +6,11 @@
       <img src="https://img.shields.io/badge/QQ-1091641063-blue?logo=qq" alt="QQ Group">
     </a>
   </p>
----
 
-一款小天才好友圈增强Xposed模块，具有强大功能（存疑？<br>
+***
+一款小天才好友圈增强Xposed模块，具有强大功能（存疑？
+
+
 前身为`好友圈Ultimate-Xposed扩展`（为[好友圈Ultimate](https://github.com/sldjadkd/MomentUltimate)制作的模块）
 ## 主要功能
 - 云控检测
