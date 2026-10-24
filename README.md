@@ -15,7 +15,7 @@
 前身为`好友圈Ultimate-Xposed扩展`（为[好友圈Ultimate](https://github.com/sldjadkd/MomentUltimate)制作的模块）
 ## 主要功能
 - 云控检测
-- HTTPS请求/响应明文查看
+- HTTPS请求/响应明文查看 *（具体用法详见[这里](./HowToUseHttpsDecryptor.md)）*
 - 主页增强
 - ~~长按动态Dialog增强~~
 - 发送自定义心情/动态 *（受限严重）*
